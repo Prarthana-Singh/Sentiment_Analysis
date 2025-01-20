@@ -29,7 +29,7 @@ This project is a **Sentiment Analysis NLP App** built using **Streamlit**. The 
 
 ### Prerequisites  
 - Python 3.x  
-- Libraries: Streamlit, TextBlob  
+- Libraries: Streamlit, TextBlob, pandas, altair, SentimentIntensityAnalyzer
 
 ### Installation  
 1. Clone the repository:  
