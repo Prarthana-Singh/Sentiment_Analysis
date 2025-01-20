@@ -34,7 +34,7 @@ This project is a **Sentiment Analysis NLP App** built using **Streamlit**. The 
 ### Installation  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-repo-name/sentiment-analysis
+   git clone https://github.com/Prarthana-Singh/Sentiment_Analysis.git
 
 2. Navigate to the project folder:
    ```bash
